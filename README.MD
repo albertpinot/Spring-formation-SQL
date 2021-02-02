@@ -12,5 +12,6 @@
 
 ## Présentation
 
-## Equipe 
+## Membre de l'équipe 
+
 
